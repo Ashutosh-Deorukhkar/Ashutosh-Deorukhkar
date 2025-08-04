@@ -1,12 +1,18 @@
 # Hi, I am Ashutosh Deorukhkar
 
 
-# 💫 About Me:
+# About Me:
 I’m passionate about software engineering, AI/ML, and system design. I have acquired a strong foundation in programming languages such as Python, JavaScript, and SQL, with experience applying them across a range of real-world projects. I have gained expertise in frameworks and tools like React, Node.js, Express, and Git, and have also used Docker to streamline development and deployment workflows. My hands-on experience with databases like MongoDB and PostgreSQL, along with working knowledge of AWS services including EC2, S3, DynamoDB, and Lambda, has strengthened my ability to build scalable and cloud-ready systems. I’m always eager to solve real-world problems through technology and collaborate on innovative ideas that make a meaningful impact.
+
+
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashutoshdeorukhkar) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashu010205@gmail.com)
+
+
 
 ## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -33,6 +39,9 @@ I’m passionate about software engineering, AI/ML, and system design. I have ac
 ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+
+
 
 # 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh-254&show_icons=true&locale=en&layout=compact" alt="ashutosh-254" /></p>
