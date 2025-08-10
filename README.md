@@ -36,5 +36,5 @@ I’m passionate about software engineering, AI/ML, and system design. I have ac
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 # 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh-254&show_icons=true&locale=en&layout=compact" alt="ashutosh-254" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh-254&" alt="ashutosh-254" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh-deorukhkar&show_icons=true&locale=en&layout=compact" alt="ashutosh-deorukhkar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh-deorukhkar&" alt="ashutosh-deorukhkar" /></p>
